@@ -1,0 +1,23 @@
+{
+  "name": "Instagram-login-page-clone",
+  "version": "1.0.0",
+  "description": "Instagram login page clone with HTML and CSS",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MayurShikhare/insta-login-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MayurShikhare/insta-login-clone/issues"
+  },
+  "homepage": "https://github.com/MayurShikhare/insta-login-clone#readme",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
